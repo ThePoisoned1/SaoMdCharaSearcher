@@ -17,8 +17,10 @@ def get_search_results(search, data):
     search = search.lower()
     results = []
     for entry in data:
-        if any(search in value.lower() for value in entry):
+        if any(search in value.lower().strip() for value in entry):
             results.append(entry)
+        if entry[3].strip().lower() == search:
+            return [entry]
     return results
 
 
