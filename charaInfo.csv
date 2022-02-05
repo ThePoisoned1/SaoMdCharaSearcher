@@ -1,0 +1,750 @@
+Id;CharaName;UnitName;FullName;picPath
+0;Nobunaga;[Master Assistant];[Master Assistant] Nobunaga;./pics/character_1458.jpg
+0;Yoshitsugu;[Dual Pen Cartoonist];[Dual Pen Cartoonist] Yoshitsugu;./pics/character_1459.jpg
+11001;Kirito;; Kirito;./pics/character_52.jpg
+12001;Kirito;[Former Beta Tester];[Former Beta Tester] Kirito;./pics/character_43.jpg
+12002;Klein;; Klein;./pics/character_38.jpg
+12003;Diavel;; Diavel;./pics/character_48.jpg
+12004;Corvatz;; Corvatz;./pics/character_50.jpg
+12005;Thinker;; Thinker;./pics/character_40.jpg
+12006;Sigurd;; Sigurd;./pics/character_41.jpg
+13001;Kirito;[Spriggan];[Spriggan] Kirito;./pics/character_19.jpg
+13002;Kirito;[Solo];[Solo] Kirito;./pics/character_3.jpg
+13003;Klein;[Katana Master];[Katana Master] Klein;./pics/character_16.jpg
+13004;Klein;[Salamander Samurai];[Salamander Samurai] Klein;./pics/character_17.jpg
+13005;Sumeragi;; Sumeragi;./pics/character_13.jpg
+13006;Heathcliff;[Guild Commander];[Guild Commander] Heathcliff;./pics/character_9.jpg
+13007;Red-eyed Xaxa;; Red-eyed Xaxa;./pics/character_26.jpg
+13008;Kuradeel;; Kuradeel;./pics/character_23.jpg
+13009;Eugene;; Eugene;./pics/character_14.jpg
+14001;Klein;[Furinkazan];[Furinkazan] Klein;./pics/character_912.jpg
+14002;Kirito;[Fairy Dance];[Fairy Dance] Kirito;./pics/character_1002.jpg
+14004;Klein;【神炎の剣客】;【神炎の剣客】 Klein;./pics/character_91.jpg
+14006;Klein;[Faithful Swordsman];[Faithful Swordsman] Klein;./pics/character_1137.jpg
+14008;Eugeo;[Born Genius];[Born Genius] Eugeo;./pics/character_983.jpg
+14015;Kirito;[Hero's Return];[Hero's Return] Kirito;./pics/character_936.jpg
+14016;Eugeo;[Surfer];[Surfer] Eugeo;./pics/character_964.jpg
+14017;Eugeo;[Blue Silver Knight];[Blue Silver Knight] Eugeo;./pics/character_1040.jpg
+14018;Kirito;[Resurgent Sword];[Resurgent Sword] Kirito;./pics/character_1055.jpg
+14019;Kirito;[Black Wing];[Black Wing] Kirito;./pics/character_1013.jpg
+14020;Kirito;[Haiku Composer];[Haiku Composer] Kirito;./pics/character_995.jpg
+14021;Eugeo;[Ark Savior];[Ark Savior] Eugeo;./pics/character_1186.jpg
+14022;Sorey;[Pure-minded Master];[Pure-minded Master] Sorey;./pics/character_1207.jpg
+15001;Eugeo;[Blue Rose Integrity Knight];[Blue Rose Integrity Knight] Eugeo;./pics/character_1087.jpg
+15002;Eugeo;[Howl At the Moon];[Howl At the Moon] Eugeo;./pics/character_953.jpg
+15003;Eugeo;[Intrepid Detective];[Intrepid Detective] Eugeo;./pics/character_1014.jpg
+15004;Klein;[Strong Mind];[Strong Mind] Klein;./pics/character_948.jpg
+15005;Kirito;[Promise At That Time];[Promise At That Time] Kirito;./pics/character_1117.jpg
+15006;Kirito;[Swordsman In the Wilderness];[Swordsman In the Wilderness] Kirito;./pics/character_956.jpg
+15007;Kirito;[Lone Wolf In the Wild];[Lone Wolf In the Wild] Kirito;./pics/character_1016.jpg
+15008;Eugeo;[Hasty Reindeer];[Hasty Reindeer] Eugeo;./pics/character_1100.jpg
+15010;Kirito;[Fortune Comes In At the Merry Gate];[Fortune Comes In At the Merry Gate] Kirito;./pics/character_1112.jpg
+15011;Kirito;[Strong Faith];[Strong Faith] Kirito;./pics/character_965.jpg
+15012;Eiji;[Ordinal Number 2nd];[Ordinal Number 2nd] Eiji;./pics/character_967.jpg
+15014;Kirito;[Stick To Your Beliefs];[Stick To Your Beliefs] Kirito;./pics/character_1115.jpg
+15015;Kirito;[Fellowship On the Field];[Fellowship On the Field] Kirito;./pics/character_1168.jpg
+15016;Eugeo;[Trusted Sword];[Trusted Sword] Eugeo;./pics/character_1184.jpg
+15017;Kirito;[Black Master Swordman];[Black Master Swordman] Kirito;./pics/character_1154.jpg
+15018;Kirito;[Hero's Blessing];[Hero's Blessing] Kirito;./pics/character_1164.jpg
+15020;Eugeo;[Unleashed Werewolf];[Unleashed Werewolf] Eugeo;./pics/character_1195.jpg
+15021;Kirito;[Hero's Achievement];[Hero's Achievement] Kirito;./pics/character_979.jpg
+16001;Eugeo;[Blue Rose In Full Glory];[Blue Rose In Full Glory] Eugeo;./pics/character_1210.jpg
+16002;Kirito;[Innocent Curiosity];[Innocent Curiosity] Kirito;./pics/character_1225.jpg
+16003;Eugeo;[Innocent Mind];[Innocent Mind] Eugeo;./pics/character_1226.jpg
+16004;Eugeo;[Whirlwind Young Warrior];[Whirlwind Young Warrior] Eugeo;./pics/character_1237.jpg
+16005;Kirito;[Aincrad-style];[Aincrad-style] Kirito;./pics/character_1241.jpg
+16006;Nobunaga;[Let's Play Memory Defrag];[Let's Play Memory Defrag] Nobunaga;
+16007;Kirito;[Trust In Each Other];[Trust In Each Other] Kirito;./pics/character_1253.jpg
+16008;Eugeo;[Unwavering Commitment];[Unwavering Commitment] Eugeo;./pics/character_1252.jpg
+16010;Kirito;[Ar Sword Master];[Ar Sword Master] Kirito;./pics/character_1263.jpg
+16011;Kirito;[The Path You Choose];[The Path You Choose] Kirito;./pics/character_1266.jpg
+16012;Eugeo;[The Oath Sword];[The Oath Sword] Eugeo;./pics/character_1267.jpg
+16013;Bercouli;[Comdr. of the Integrity Knights];[Comdr. of the Integrity Knights] Bercouli;./pics/character_1277.jpg
+16014;Kirito;[Black Suited Gunner];[Black Suited Gunner] Kirito;./pics/character_1315.jpg
+16015;Kirito;[Heart of the Sword];[Heart of the Sword] Kirito;./pics/character_1329.jpg
+16016;Eugeo;[Oath of the Sword];[Oath of the Sword] Eugeo;./pics/character_1330.jpg
+16017;Kirito;[Strength To Accept the Past];[Strength To Accept the Past] Kirito;./pics/character_1337.jpg
+16018;Eugeo;[Blooming Blue Rose Glacier];[Blooming Blue Rose Glacier] Eugeo;./pics/character_1344.jpg
+16019;Yoshitsugu;[Rocking Into Space];[Rocking Into Space] Yoshitsugu;
+16020;Nobunaga;[Reaching Greater Heights];[Reaching Greater Heights] Nobunaga;
+16021;Bercouli;[Future-slicing Knight];[Future-slicing Knight] Bercouli;./pics/character_1358.jpg
+16024;Eugeo;[Wish For Happiness];[Wish For Happiness] Eugeo;./pics/character_1377.jpg
+16025;Eiji;[Hero Hunting Blade];[Hero Hunting Blade] Eiji;./pics/character_1385.jpg
+16026;Joker;[Figureless Identity];[Figureless Identity] Joker;./pics/character_1389.jpg
+16027;Eugeo;[Heart Full of Memories];[Heart Full of Memories] Eugeo;./pics/character_1455.jpg
+16028;Kirito;[Unyielding Spirit];[Unyielding Spirit] Kirito;./pics/character_1427.jpg
+16029;Eugeo;[Unyielding Oath];[Unyielding Oath] Eugeo;./pics/character_1428.jpg
+16030;Bercouli;[Legendary Hero];[Legendary Hero] Bercouli;./pics/character_1442.jpg
+16031;Kirito;[A Gift For Christmas];[A Gift For Christmas] Kirito;./pics/character_1494.jpg
+16032;Kirito;[Blue Silver Hero];[Blue Silver Hero] Kirito;./pics/character_1478.jpg
+16033;Kirito;[Dual Pen Cartoonist];[Dual Pen Cartoonist] Kirito;./pics/character_1490.jpg
+16035;Eugeo;[Master Assistant];[Master Assistant] Eugeo;./pics/character_1489.jpg
+16037;Kirito;[Ferocious God of the West];[Ferocious God of the West] Kirito;./pics/character_1502.jpg
+16040;Kirito;[Keeper of the Iron Sword];[Keeper of the Iron Sword] Kirito;./pics/character_1519.jpg
+16042;Eugeo;[Blue Rose Beside the Hero];[Blue Rose Beside the Hero] Eugeo;./pics/character_1543.jpg
+22001;Strea;; Strea;./pics/character_47.jpg
+22002;Sachi;; Sachi;./pics/character_45.jpg
+23001;Strea;[Uninhibited Fairy];[Uninhibited Fairy] Strea;./pics/character_29.jpg
+23002;Sachi;[Sword & Shield];[Sword & Shield] Sachi;./pics/character_22.jpg
+24001;Leafa;[Storm Mage];[Storm Mage] Leafa;./pics/character_907.jpg
+24002;Yuuki;[Zekken];[Zekken] Yuuki;./pics/character_908.jpg
+24003;Strea;[Mhcp-002];[Mhcp-002] Strea;./pics/character_913.jpg
+24004;Rain;[Multi-wielder];[Multi-wielder] Rain;./pics/character_914.jpg
+24005;Yuuki;【絶風】;【絶風】 Yuuki;./pics/character_89.jpg
+24006;Rain;【めぐる奔流】;【めぐる奔流】 Rain;./pics/character_84.jpg
+24009;Yuuki;【神樹の恵み】;【神樹の恵み】 Yuuki;./pics/character_95.jpg
+24010;Yuuki;【煌星の剣豪】;【煌星の剣豪】 Yuuki;./pics/character_64.jpg
+24011;Strea;【聖夜の奔放剣士】;【聖夜の奔放剣士】 Strea;./pics/character_62.jpg
+24012;Sachi;[Happy Memories];[Happy Memories] Sachi;./pics/character_1010.jpg
+24013;Yuuki;【祝宴の神楽】;【祝宴の神楽】 Yuuki;./pics/character_77.jpg
+24014;Leafa;[Unfulfilled Wish];[Unfulfilled Wish] Leafa;./pics/character_1122.jpg
+24015;Yuuki;[Swordmaster];[Swordmaster] Yuuki;./pics/character_1140.jpg
+24016;Leafa;[Nightwear];[Nightwear] Leafa;./pics/character_1309.jpg
+24017;Yuuki;[Nightwear];[Nightwear] Yuuki;./pics/character_1308.jpg
+24018;Leafa;[Void Runner];[Void Runner] Leafa;./pics/character_1026.jpg
+24019;Alice;[Integrity Knight];[Integrity Knight] Alice;./pics/character_984.jpg
+24024;Suguha;[Faroff Fencer];[Faroff Fencer] Suguha;./pics/character_1056.jpg
+24025;Yuna;[Ar Idol];[Ar Idol] Yuna;./pics/character_1012.jpg
+24026;Leafa;【絆の剣】;【絆の剣】 Leafa;./pics/character_71.jpg
+24027;Yui;[Angel Cheer];[Angel Cheer] Yui;./pics/character_950.jpg
+24028;Leafa;[Sparkling Teen Idol];[Sparkling Teen Idol] Leafa;./pics/character_1032.jpg
+24029;Asuna;[Lightning Dance];[Lightning Dance] Asuna;./pics/character_1034.jpg
+24030;Strea;[Sakura Romance];[Sakura Romance] Strea;./pics/character_892.jpg
+24031;Rain;[Parlor Maid];[Parlor Maid] Rain;./pics/character_925.jpg
+24033;Argo;[Early Spring Dance];[Early Spring Dance] Argo;./pics/character_972.jpg
+24034;Suguha;[Summer Girl];[Summer Girl] Suguha;./pics/character_1042.jpg
+24035;Alice;[Fragrant Olive In June];[Fragrant Olive In June] Alice;./pics/character_1050.jpg
+24036;Leafa;[The Kiss];[The Kiss] Leafa;./pics/character_1053.jpg
+24037;Leafa;[Rainy Season Enjoyment];[Rainy Season Enjoyment] Leafa;./pics/character_1064.jpg
+24038;Leafa;[Aries];[Aries] Leafa;./pics/character_1047.jpg
+24039;Yui;[All Aboard];[All Aboard] Yui;./pics/character_974.jpg
+24040;Lisbeth;[Good Street Vendor];[Good Street Vendor] Lisbeth;./pics/character_1081.jpg
+24041;Yuna;[Tropical Db];[Tropical Db] Yuna;./pics/character_988.jpg
+24042;Alice;[Golden Knight];[Golden Knight] Alice;./pics/character_1041.jpg
+24043;Leafa;[Radiant First Mate];[Radiant First Mate] Leafa;./pics/character_896.jpg
+24044;Alice;[Summer Princess];[Summer Princess] Alice;./pics/character_1069.jpg
+24046;Yui;[True Heart];[True Heart] Yui;./pics/character_989.jpg
+24048;Leafa;[Splash In Dirndl];[Splash In Dirndl] Leafa;./pics/character_998.jpg
+24049;Yuuki;[Tied Together];[Tied Together] Yuuki;./pics/character_1001.jpg
+24050;Alice;[A Lone Flower];[A Lone Flower] Alice;./pics/character_1171.jpg
+24051;Suguha;[Caught My Eye];[Caught My Eye] Suguha;./pics/character_1183.jpg
+25001;Leafa;[The Blade - Facing the Feelings];[The Blade - Facing the Feelings] Leafa;./pics/character_1085.jpg
+25002;Yuuki;[Wish Granter];[Wish Granter] Yuuki;./pics/character_1090.jpg
+25004;Alice;[Fragrant Olive Integrity Knight];[Fragrant Olive Integrity Knight] Alice;./pics/character_1088.jpg
+25005;Alice;[Pumpkin Knight];[Pumpkin Knight] Alice;./pics/character_955.jpg
+25006;Leafa;[Flush of Youth];[Flush of Youth] Leafa;./pics/character_889.jpg
+25007;Leafa;[Beauty In Secluded Hot Springs];[Beauty In Secluded Hot Springs] Leafa;./pics/character_1095.jpg
+25008;Alice;[Excitement On Christmas Eve];[Excitement On Christmas Eve] Alice;./pics/character_1099.jpg
+25009;Yuuki;[Christmas Miracle];[Christmas Miracle] Yuuki;./pics/character_1104.jpg
+25010;Alice;[Ring the Bell];[Ring the Bell] Alice;./pics/character_1108.jpg
+25011;Suguha;[Gorgeous Priestess Costume];[Gorgeous Priestess Costume] Suguha;./pics/character_946.jpg
+25012;Yuuki;[The Bunny Ace];[The Bunny Ace] Yuuki;./pics/character_960.jpg
+25013;Yuuki;[Innocent Chocolatier];[Innocent Chocolatier] Yuuki;./pics/character_919.jpg
+25016;Yuuki;[New Year's Breeze];[New Year's Breeze] Yuuki;./pics/character_1114.jpg
+25019;Alice;[Bashful Tanuki Girl];[Bashful Tanuki Girl] Alice;./pics/character_978.jpg
+25020;Silica;[Angel Tone];[Angel Tone] Silica;./pics/character_1132.jpg
+25021;Leafa;[Passionate Strumming];[Passionate Strumming] Leafa;./pics/character_1150.jpg
+25022;Leafa;[Swifty Slash];[Swifty Slash] Leafa;./pics/character_1157.jpg
+25023;Yuuki;[Feels Like a Big Sis];[Feels Like a Big Sis] Yuuki;./pics/character_1160.jpg
+25025;Asuna;[Flash With Wind];[Flash With Wind] Asuna;./pics/character_1172.jpg
+25026;Sinon;[Illusion Killer];[Illusion Killer] Sinon;./pics/character_1174.jpg
+25028;Strea;[Ingenuous Blessing];[Ingenuous Blessing] Strea;./pics/character_985.jpg
+25029;Alice;[Proud Sword];[Proud Sword] Alice;./pics/character_1185.jpg
+25031;Leafa;[The Spirit];[The Spirit] Leafa;./pics/character_1203.jpg
+25032;Milla;[Great Spirit];[Great Spirit] Milla;./pics/character_1206.jpg
+25033;Alice;[Valkyrie];[Valkyrie] Alice;./pics/character_1194.jpg
+25034;Yuuki;[Deceiver of the Gods];[Deceiver of the Gods] Yuuki;./pics/character_1199.jpg
+25035;Yuuki;[Zekken In the Wilderness];[Zekken In the Wilderness] Yuuki;./pics/character_1177.jpg
+25038;Makoto;[Another Justice];[Another Justice] Makoto;./pics/character_1211.jpg
+25045;Sortiliena;[Walking Tactics Manual];[Walking Tactics Manual] Sortiliena;./pics/character_1254.jpg
+25055;Makoto;[Time Traveler];[Time Traveler] Makoto;./pics/character_1333.jpg
+25056;Sortiliena;[New Year's Dance];[New Year's Dance] Sortiliena;./pics/character_1376.jpg
+26001;Alice;[Great Fragrant Olive Tree];[Great Fragrant Olive Tree] Alice;./pics/character_1209.jpg
+26002;Leafa;[A Gale Blows Via Time & Space];[A Gale Blows Via Time & Space] Leafa;./pics/character_1214.jpg
+26003;Yuuki;[Zekken With Feelings];[Zekken With Feelings] Yuuki;./pics/character_1218.jpg
+26004;Yuuki;[Baleful Karasu Tengu];[Baleful Karasu Tengu] Yuuki;./pics/character_1232.jpg
+26005;Alice;[Autumn Slasher];[Autumn Slasher] Alice;./pics/character_1236.jpg
+26006;Sortiliena;[Serlut-style Inheritor];[Serlut-style Inheritor] Sortiliena;./pics/character_1240.jpg
+26008;Ronie;[Kind Apprentice Swordsman];[Kind Apprentice Swordsman] Ronie;./pics/character_1247.jpg
+26009;Tiese;[Devoted Apprentice Swordsman];[Devoted Apprentice Swordsman] Tiese;./pics/character_1248.jpg
+26010;Yuuki;[Brilliant Gift];[Brilliant Gift] Yuuki;./pics/character_1249.jpg
+26011;Alice;[Orderly Knight];[Orderly Knight] Alice;./pics/character_1251.jpg
+26012;Suguha;[Amaterasu the Sun Goddess];[Amaterasu the Sun Goddess] Suguha;./pics/character_1259.jpg
+26014;Yuna;[Singing Voice In the Battle];[Singing Voice In the Battle] Yuna;./pics/character_1262.jpg
+26017;Alice;[Noble Integrity Knight];[Noble Integrity Knight] Alice;./pics/character_1261.jpg
+26018;Tiese;[Sweet Romance];[Sweet Romance] Tiese;./pics/character_1290.jpg
+26019;Ronie;[One Summer's Memory];[One Summer's Memory] Ronie;./pics/character_1304.jpg
+26020;Tiese;[Midsummer's Innocence];[Midsummer's Innocence] Tiese;./pics/character_1305.jpg
+26021;Silica;[Find the Prince];[Find the Prince] Silica;./pics/character_1307.jpg
+26022;Yuuki;[Instant Attack];[Instant Attack] Yuuki;./pics/character_1279.jpg
+26023;Alice;[Breaking the Seal];[Breaking the Seal] Alice;./pics/character_1280.jpg
+26025;Asuna;[Revived Crest Light];[Revived Crest Light] Asuna;./pics/character_1314.jpg
+26026;Alice;[Elegant Eternal Summer Knight];[Elegant Eternal Summer Knight] Alice;./pics/character_1323.jpg
+26027;Yuuki;[Together For Eternity];[Together For Eternity] Yuuki;./pics/character_1332.jpg
+26028;Leafa;[Together Forevermore];[Together Forevermore] Leafa;./pics/character_1340.jpg
+26032;Alice;[Grand Blossoming];[Grand Blossoming] Alice;./pics/character_1345.jpg
+26033;Alice;[Wandering Integrity Knight];[Wandering Integrity Knight] Alice;./pics/character_1347.jpg
+26034;Leafa;[Illusive Sylph];[Illusive Sylph] Leafa;./pics/character_1350.jpg
+26035;Alice;[Together With Amayori];[Together With Amayori] Alice;./pics/character_1364.jpg
+26036;Sortiliena;[Thinking of You];[Thinking of You] Sortiliena;./pics/character_1371.jpg
+26037;Ronie;[Mentee In Love];[Mentee In Love] Ronie;./pics/character_1372.jpg
+26039;Yuuki;[Linking Feelings Sword God];[Linking Feelings Sword God] Yuuki;./pics/character_1384.jpg
+26040;Alice;[Vr World Emperor];[Vr World Emperor] Alice;./pics/character_1397.jpg
+26041;Yuuki;[Vr World Hermit];[Vr World Hermit] Yuuki;./pics/character_1392.jpg
+26042;Asuna;[Flame Blade Wielding Demon];[Flame Blade Wielding Demon] Asuna;./pics/character_1404.jpg
+26043;Leafa;[Earth Goddess Terraria];[Earth Goddess Terraria] Leafa;./pics/character_1411.jpg
+26044;Yuuki;[Earth-rupturing White Dragon];[Earth-rupturing White Dragon] Yuuki;./pics/character_1407.jpg
+26045;Alice;[Knight's Pride];[Knight's Pride] Alice;./pics/character_1454.jpg
+26046;Leafa;[All-healing];[All-healing] Leafa;./pics/character_1435.jpg
+26048;Fanatio;[Dewy Bride];[Dewy Bride] Fanatio;./pics/character_1426.jpg
+26049;Alice;[Tranquil Moment];[Tranquil Moment] Alice;./pics/character_1437.jpg
+26051;Yuuki;[Always By Your Side];[Always By Your Side] Yuuki;./pics/character_1451.jpg
+26052;Leafa;[Wrapped In Divine Wind];[Wrapped In Divine Wind] Leafa;./pics/character_1461.jpg
+26053;Yuuki;[Invincible Journey];[Invincible Journey] Yuuki;./pics/character_1464.jpg
+26054;Ronie;[Trainee Bearing a Legacy];[Trainee Bearing a Legacy] Ronie;./pics/character_1465.jpg
+26055;Tiese;[Trainee Filled With Devotion];[Trainee Filled With Devotion] Tiese;./pics/character_1466.jpg
+26057;Yuuki;[Powerful Apprentice Swordsman];[Powerful Apprentice Swordsman] Yuuki;./pics/character_1477.jpg
+26058;Asuna;[Flash of Light Among the Flowers];[Flash of Light Among the Flowers] Asuna;./pics/character_1479.jpg
+26059;Leafa;[Justice];[Justice] Leafa;./pics/character_1480.jpg
+26060;Eydis;[Knight of the Abyss];[Knight of the Abyss] Eydis;./pics/character_1483.jpg
+26061;Yuna;[Song For You];[Song For You] Yuna;./pics/character_1514.jpg
+26062;Leafa;[Wind Caressing the Earth];[Wind Caressing the Earth] Leafa;./pics/character_1517.jpg
+26067;Alice;[Steel Blade of Resolution];[Steel Blade of Resolution] Alice;./pics/character_1522.jpg
+26069;Leafa;[Sylph Against the World Tree];[Sylph Against the World Tree] Leafa;./pics/character_1542.jpg
+26070;Alice;[Fragrant Olive Knight With Pride];[Fragrant Olive Knight With Pride] Alice;./pics/character_1544.jpg
+34001;Kirito;[Black Swordsman];[Black Swordsman] Kirito;./pics/character_902.jpg
+34002;Kirito;[Skill Connect];[Skill Connect] Kirito;./pics/character_929.jpg
+34003;Kirito;[Bloodbond];[Bloodbond] Kirito;./pics/character_53.jpg
+34004;Kirito;[Concealed Dualblades];[Concealed Dualblades] Kirito;./pics/character_1134.jpg
+34005;Kirito;[Fantastic Gift];[Fantastic Gift] Kirito;./pics/character_59.jpg
+34007;Kirito;【本物の黒】;【本物の黒】 Kirito;./pics/character_68.jpg
+34008;Kirito;[Tropical Beach Boy];[Tropical Beach Boy] Kirito;./pics/character_1066.jpg
+34009;Kirito;[Lofty Captain];[Lofty Captain] Kirito;./pics/character_891.jpg
+35001;Kirito;[The Will - Transcending the System];[The Will - Transcending the System] Kirito;./pics/character_1083.jpg
+35002;Kirito;[Offer Lifeblood];[Offer Lifeblood] Kirito;./pics/character_952.jpg
+35003;Kirito;[365 Days];[365 Days] Kirito;./pics/character_1015.jpg
+35004;Kirito;[Guide In Snow];[Guide In Snow] Kirito;./pics/character_962.jpg
+35006;Kirito;[The King of Poker];[The King of Poker] Kirito;./pics/character_958.jpg
+35008;Kirito;[Masked Swordsman];[Masked Swordsman] Kirito;./pics/character_1202.jpg
+35009;Kirito;[Orgulous God];[Orgulous God] Kirito;./pics/character_1192.jpg
+36001;Kirito;[Ultrafast Dualblades];[Ultrafast Dualblades] Kirito;./pics/character_1200.jpg
+36002;Yoshitsugu;[Happy 2nd Anniversary];[Happy 2nd Anniversary] Yoshitsugu;
+36003;Kirito;[Gilded Hero];[Gilded Hero] Kirito;./pics/character_1287.jpg
+36004;Kirito;[To the World's Core];[To the World's Core] Kirito;./pics/character_1339.jpg
+36005;Kirito;[My Hero];[My Hero] Kirito;./pics/character_1313.jpg
+36006;Kirito;[A Duty To Honor];[A Duty To Honor] Kirito;./pics/character_1343.jpg
+36007;Kirito;[My Life Is Yours];[My Life Is Yours] Kirito;./pics/character_1351.jpg
+36008;Kirito;[Black Sword Integrity Knight];[Black Sword Integrity Knight] Kirito;./pics/character_1365.jpg
+36009;Kirito;[Linking Wills Sword God];[Linking Wills Sword God] Kirito;./pics/character_1382.jpg
+36010;Kirito;[Vr World Fool];[Vr World Fool] Kirito;./pics/character_1395.jpg
+36011;Kirito;[Hero Rises];[Hero Rises] Kirito;./pics/character_1452.jpg
+36013;Kirito;[Eternal Bond];[Eternal Bond] Kirito;./pics/character_1474.jpg
+36014;Eugeo;[Black Suited Blue Rose];[Black Suited Blue Rose] Eugeo;./pics/character_1476.jpg
+36015;Kirito;[The World];[The World] Kirito;./pics/character_1481.jpg
+36016;Eugeo;[Diligent Gentleman];[Diligent Gentleman] Eugeo;./pics/character_1530.jpg
+36018;Kirito;[Floating Castle Hero In Black];[Floating Castle Hero In Black] Kirito;./pics/character_1540.jpg
+44001;Rain;[Raindrops Girl];[Raindrops Girl] Rain;./pics/character_1063.jpg
+44002;Yuuki;[Celestial Dancer];[Celestial Dancer] Yuuki;./pics/character_904.jpg
+44003;Rain;[Blossom Shower];[Blossom Shower] Rain;./pics/character_1070.jpg
+44004;Rain;[Personal Santa];[Personal Santa] Rain;./pics/character_993.jpg
+45002;Rain;[Cool Drum Beats];[Cool Drum Beats] Rain;./pics/character_1148.jpg
+45003;Rain;[Fluttering Petals];[Fluttering Petals] Rain;./pics/character_1167.jpg
+45004;Yuuki;[Summer Splash];[Summer Splash] Yuuki;./pics/character_1180.jpg
+45005;Rain;[Countless Swords Blessing];[Countless Swords Blessing] Rain;./pics/character_1152.jpg
+45006;Rain;[Dolphin Jumper];[Dolphin Jumper] Rain;./pics/character_1190.jpg
+45010;Rain;[A New Journey];[A New Journey] Rain;./pics/character_1401.jpg
+45011;Rain;[Rainfall Girl];[Rainfall Girl] Rain;./pics/character_1432.jpg
+45012;Rain;[Petals Dancing In the Breeze];[Petals Dancing In the Breeze] Rain;./pics/character_1431.jpg
+46001;Yuuki;[Susanoo];[Susanoo] Yuuki;./pics/character_1258.jpg
+46002;Yuuki;[Midnight Dream];[Midnight Dream] Yuuki;./pics/character_1289.jpg
+46003;Rain;[Tiny Big Sister];[Tiny Big Sister] Rain;./pics/character_1297.jpg
+46004;Rain;[Dual Wielding Swordsman];[Dual Wielding Swordsman] Rain;./pics/character_1282.jpg
+46005;Rain;[Photon Sword Dancing In the Wind];[Photon Sword Dancing In the Wind] Rain;./pics/character_1319.jpg
+46006;Yuuki;[Mischievous Eternalsummer Warrior];[Mischievous Eternalsummer Warrior] Yuuki;./pics/character_1328.jpg
+46008;Ronie;[Woof Woof Swordsman];[Woof Woof Swordsman] Ronie;./pics/character_1321.jpg
+46009;Yuuki;[Shimmering Dancer];[Shimmering Dancer] Yuuki;./pics/character_1349.jpg
+46010;Alice;[A Steamy View];[A Steamy View] Alice;./pics/character_1353.jpg
+46011;Yuuki;[Integrity Knight Zekken];[Integrity Knight Zekken] Yuuki;./pics/character_1370.jpg
+46013;Rain;[Rose Bearing Beauty];[Rose Bearing Beauty] Rain;./pics/character_1414.jpg
+46014;Alice;[Vampire of Nobility];[Vampire of Nobility] Alice;./pics/character_1472.jpg
+46015;Asuna;[Wonderful Present];[Wonderful Present] Asuna;./pics/character_1485.jpg
+46016;Rain;[Snow Day Present];[Snow Day Present] Rain;./pics/character_1493.jpg
+46017;Alice;[Battle-hardened Pirate Maiden];[Battle-hardened Pirate Maiden] Alice;./pics/character_1520.jpg
+46018;Yui;[A New Year Just Begun];[A New Year Just Begun] Yui;./pics/character_1498.jpg
+46019;Rain;[Diligent Subculture Maid];[Diligent Subculture Maid] Rain;./pics/character_1534.jpg
+46020;Seven;[The Magician];[The Magician] Seven;./pics/character_1537.jpg
+46021;Yuuki;[Invincible Magical Girl];[Invincible Magical Girl] Yuuki;./pics/character_1546.jpg
+62001;Asuna;; Asuna;./pics/character_42.jpg
+62002;Yolko;; Yolko;./pics/character_39.jpg
+62003;Yulier;; Yulier;./pics/character_31.jpg
+63001;Asuna;[Floor-clearing Demon];[Floor-clearing Demon] Asuna;./pics/character_1.jpg
+63002;Lisbeth;[Battle Smith];[Battle Smith] Lisbeth;./pics/character_18.jpg
+63003;Rain;[Item Master];[Item Master] Rain;./pics/character_5.jpg
+63004;Lux;; Lux;./pics/character_20.jpg
+64001;Asuna;[Lightning Flash];[Lightning Flash] Asuna;./pics/character_906.jpg
+64002;Asuna;【疾風の踊り子】;【疾風の踊り子】 Asuna;./pics/character_86.jpg
+64003;Yuuki;【トリック・オア・トリート】;【トリック・オア・トリート】 Yuuki;./pics/character_55.jpg
+64004;Asuna;【流麗の水剣士】;【流麗の水剣士】 Asuna;./pics/character_82.jpg
+64005;Asuna;[Prestige Vice Commander];[Prestige Vice Commander] Asuna;./pics/character_1135.jpg
+64006;Asuna;【聖夜の閃光】;【聖夜の閃光】 Asuna;./pics/character_60.jpg
+64007;Asuna;【薄紅に染まる夢】;【薄紅に染まる夢】 Asuna;./pics/character_76.jpg
+64008;Asuna;[Enchanting Love];[Enchanting Love] Asuna;./pics/character_1121.jpg
+64009;Asuna;[Made With Love];[Made With Love] Asuna;./pics/character_1216.jpg
+64010;Asuna;[Shinobi Slash];[Shinobi Slash] Asuna;./pics/character_1023.jpg
+64012;Asuna;[Heart of Confront];[Heart of Confront] Asuna;./pics/character_937.jpg
+64015;Asuna;【白き閃光】;【白き閃光】 Asuna;./pics/character_69.jpg
+64016;Premiere;【生まれた感情】;【生まれた感情】 Premiere;./pics/character_70.jpg
+64017;Strea;[Glittering Youth];[Glittering Youth] Strea;./pics/character_949.jpg
+64018;Yuuki;[Natural Pop Star];[Natural Pop Star] Yuuki;./pics/character_1030.jpg
+64019;Yui;[Pearl Tears];[Pearl Tears] Yui;./pics/character_1038.jpg
+64020;Leafa;[Mellow Maid];[Mellow Maid] Leafa;./pics/character_926.jpg
+64021;Sphica;[Hide-and-seek Girl];[Hide-and-seek Girl] Sphica;./pics/character_1006.jpg
+64022;Premiere;[Pudding Rather Than Praise];[Pudding Rather Than Praise] Premiere;./pics/character_973.jpg
+64024;Yui;[Up-and-coming Tiny Idol];[Up-and-coming Tiny Idol] Yui;./pics/character_987.jpg
+64025;Asuna;[Promise At That Time];[Promise At That Time] Asuna;./pics/character_1049.jpg
+64026;Yuuki;[Gemini];[Gemini] Yuuki;./pics/character_1045.jpg
+64027;Asuna;[Time of Injection];[Time of Injection] Asuna;./pics/character_1058.jpg
+64028;Yuuki;[Sunny Summer Girl];[Sunny Summer Girl] Yuuki;./pics/character_1068.jpg
+64029;Silica;[Starlight Prayer];[Starlight Prayer] Silica;./pics/character_901.jpg
+64030;Asuna;[Illuminating Weeping Willow];[Illuminating Weeping Willow] Asuna;./pics/character_1071.jpg
+64031;Asuna;[Healing Beauty];[Healing Beauty] Asuna;./pics/character_1075.jpg
+64032;Leafa;[Summer Night Shout];[Summer Night Shout] Leafa;./pics/character_1080.jpg
+64033;Asuna;[Gorgeous Quartermaster];[Gorgeous Quartermaster] Asuna;./pics/character_890.jpg
+64034;Asuna;[Heart Flash];[Heart Flash] Asuna;./pics/character_1057.jpg
+64035;Asuna;[Stars And Stripes];[Stars And Stripes] Asuna;./pics/character_996.jpg
+64036;Yuna;[Sweet Idol Singer];[Sweet Idol Singer] Yuna;./pics/character_1021.jpg
+64037;Premiere;[Shamisen Rock];[Shamisen Rock] Premiere;./pics/character_1133.jpg
+65001;Asuna;[The Will - Changing the Fate];[The Will - Changing the Fate] Asuna;./pics/character_1084.jpg
+65002;Asuna;[Heartful Water Fairy];[Heartful Water Fairy] Asuna;./pics/character_1089.jpg
+65003;Leafa;[Sweet Monster];[Sweet Monster] Leafa;./pics/character_922.jpg
+65004;Asuna;[Reach the Finish Line];[Reach the Finish Line] Asuna;./pics/character_900.jpg
+65005;Asuna;[The Glossy Goddess];[The Glossy Goddess] Asuna;./pics/character_1093.jpg
+65006;Asuna;[Dancing Rose Red];[Dancing Rose Red] Asuna;./pics/character_1017.jpg
+65007;Asuna;[Gift From Santa];[Gift From Santa] Asuna;./pics/character_1097.jpg
+65008;Asuna;[Votive Prayers];[Votive Prayers] Asuna;./pics/character_1107.jpg
+65009;Asuna;[Foxy Shrine Maiden];[Foxy Shrine Maiden] Asuna;./pics/character_938.jpg
+65011;Asuna;[The Queen of Hearts];[The Queen of Hearts] Asuna;./pics/character_959.jpg
+65012;Asuna;[Affectionate Chocolatier];[Affectionate Chocolatier] Asuna;./pics/character_918.jpg
+65016;Asuna;[Foxy Beauty];[Foxy Beauty] Asuna;./pics/character_977.jpg
+65018;Seven;[Sweet Vocals];[Sweet Vocals] Seven;./pics/character_1147.jpg
+65020;Asuna;[Robust Faith];[Robust Faith] Asuna;./pics/character_966.jpg
+65021;Yuna;[Shifting Idol Singer];[Shifting Idol Singer] Yuna;./pics/character_968.jpg
+65022;Asuna;[Nimble Slash];[Nimble Slash] Asuna;./pics/character_1155.jpg
+65023;Asuna;[Unrestrained Emotion];[Unrestrained Emotion] Asuna;./pics/character_1166.jpg
+65024;Yuuki;[Sparkling Zekken];[Sparkling Zekken] Yuuki;./pics/character_1173.jpg
+65025;Asuna;[Ocean Resort];[Ocean Resort] Asuna;./pics/character_1179.jpg
+65026;Premiere;[Goddess' Blessing];[Goddess' Blessing] Premiere;./pics/character_1151.jpg
+65027;Asuna;[Blessing of Light];[Blessing of Light] Asuna;./pics/character_1165.jpg
+65028;Asuna;[Vindictive Blade];[Vindictive Blade] Asuna;./pics/character_1201.jpg
+65029;Asuna;[Goddess of Fertility];[Goddess of Fertility] Asuna;./pics/character_1193.jpg
+65030;Seven;[Dolphin Rider];[Dolphin Rider] Seven;./pics/character_1191.jpg
+65031;Asuna;[Light Trajectory];[Light Trajectory] Asuna;./pics/character_980.jpg
+65035;Administrator;[Seductress];[Seductress] Administrator;./pics/character_1286.jpg
+65059;Yuuki;[Born Pop Star];[Born Pop Star] Yuuki;./pics/character_1421.jpg
+65060;Asuna;[Everlasting Love];[Everlasting Love] Asuna;./pics/character_1425.jpg
+66001;Asuna;[Linked To the Future];[Linked To the Future] Asuna;./pics/character_1208.jpg
+66002;Asuna;[Swordsman of Water];[Swordsman of Water] Asuna;./pics/character_1217.jpg
+66003;Alice;[Beautiful Monster];[Beautiful Monster] Alice;./pics/character_1221.jpg
+66004;Lisbeth;[Devildom Swordsmith];[Devildom Swordsmith] Lisbeth;./pics/character_1228.jpg
+66005;Asuna;[Joyful Wedding];[Joyful Wedding] Asuna;./pics/character_1231.jpg
+66006;Asuna;[The Sword of Hope];[The Sword of Hope] Asuna;./pics/character_1255.jpg
+66007;Asuna;[Faith In Heart];[Faith In Heart] Asuna;./pics/character_1264.jpg
+66008;Yuna;[Warmth of Your Hand];[Warmth of Your Hand] Yuna;./pics/character_1271.jpg
+66009;Alice;[Ingenuous Hina Doll];[Ingenuous Hina Doll] Alice;./pics/character_1274.jpg
+66010;Fanatio;[Vice Comdr. of the Int. Knights];[Vice Comdr. of the Int. Knights] Fanatio;./pics/character_1276.jpg
+66011;Leafa;[Mellow Love];[Mellow Love] Leafa;./pics/character_1285.jpg
+66013;Asuna;[Leading Swordsman];[Leading Swordsman] Asuna;./pics/character_1278.jpg
+66014;Asuna;[Captured Princess];[Captured Princess] Asuna;./pics/character_1288.jpg
+66016;Asuna;[Lovely Eternal Summer Warrior];[Lovely Eternal Summer Warrior] Asuna;./pics/character_1322.jpg
+66017;Administrator;[Conqueror of Love];[Conqueror of Love] Administrator;./pics/character_1325.jpg
+66018;Asuna;[Heir To the Sword];[Heir To the Sword] Asuna;./pics/character_1331.jpg
+66021;Asuna;[I Will Protect You];[I Will Protect You] Asuna;./pics/character_1352.jpg
+66022;Fanatio;[Feelings Under the Helmet];[Feelings Under the Helmet] Fanatio;./pics/character_1357.jpg
+66023;Asuna;[Divine Sword of the Guardian];[Divine Sword of the Guardian] Asuna;./pics/character_1359.jpg
+66024;Asuna;[Goddess of Creation Stacia];[Goddess of Creation Stacia] Asuna;./pics/character_1368.jpg
+66025;Asuna;[Integrity Knight Lightning Flash];[Integrity Knight Lightning Flash] Asuna;./pics/character_1369.jpg
+66026;Ronie;[Plenty of Fortune];[Plenty of Fortune] Ronie;./pics/character_1375.jpg
+66027;Makoto;[Divine Flash];[Divine Flash] Makoto;./pics/character_1380.jpg
+66028;Asuna;[Linking Bonds Sword God];[Linking Bonds Sword God] Asuna;./pics/character_1383.jpg
+66029;Yuna;[Captivating Songstress];[Captivating Songstress] Yuna;./pics/character_1387.jpg
+66030;Asuna;[Vr World Empress];[Vr World Empress] Asuna;./pics/character_1396.jpg
+66031;Violet;[Blessed Appearance];[Blessed Appearance] Violet;./pics/character_1394.jpg
+66032;Sheyta;[Silent Integrity Knight];[Silent Integrity Knight] Sheyta;./pics/character_1416.jpg
+66033;Asuna;[Heir of Rosario];[Heir of Rosario] Asuna;./pics/character_1450.jpg
+66034;Ronie;[Starry-eyed Maiden];[Starry-eyed Maiden] Ronie;./pics/character_1424.jpg
+66035;Asuna;[Eternal Bond];[Eternal Bond] Asuna;./pics/character_1409.jpg
+66036;Asuna;[All-loving];[All-loving] Asuna;./pics/character_1434.jpg
+66037;Asuna;[Tropical Time];[Tropical Time] Asuna;./pics/character_1444.jpg
+66038;Seven;[Friendship And Adventure];[Friendship And Adventure] Seven;./pics/character_1415.jpg
+66039;Asuna;[Power To Save];[Power To Save] Asuna;./pics/character_1453.jpg
+66040;Asuna;[Unstoppable Friendship];[Unstoppable Friendship] Asuna;./pics/character_1463.jpg
+66041;Administrator;[High Pontifex];[High Pontifex] Administrator;./pics/character_1443.jpg
+66042;Ronie;[Charming Pumpkin Maiden];[Charming Pumpkin Maiden] Ronie;./pics/character_1468.jpg
+66043;Tiese;[Alluring Black Cat];[Alluring Black Cat] Tiese;./pics/character_1473.jpg
+66044;Alice;[Sparkling Fragrant Olive];[Sparkling Fragrant Olive] Alice;./pics/character_1475.jpg
+66045;Yui;[Lady Spider];[Lady Spider] Yui;./pics/character_1482.jpg
+66046;Ronie;[Serene Goddess of the East];[Serene Goddess of the East] Ronie;./pics/character_1503.jpg
+66047;Ronie;[Pure Heart];[Pure Heart] Ronie;./pics/character_1507.jpg
+66048;Asuna;[Love All-Encompassing];[Love All-Encompassing] Asuna;./pics/character_1515.jpg
+66049;Asuna;[Just Want To Be Me];[Just Want To Be Me] Asuna;./pics/character_1523.jpg
+66050;Lisbeth;[Big Sister Energy];[Big Sister Energy] Lisbeth;./pics/character_1528.jpg
+66053;Asuna;[Floating Castle Lightning Flash];[Floating Castle Lightning Flash] Asuna;./pics/character_1541.jpg
+82001;Silica;; Silica;./pics/character_44.jpg
+82002;Philia;; Philia;./pics/character_46.jpg
+82003;Argo;; Argo;./pics/character_49.jpg
+82004;Sasha;; Sasha;./pics/character_51.jpg
+83001;Silica;[Party Mascot];[Party Mascot] Silica;./pics/character_6.jpg
+83002;Argo;[Information Broker];[Information Broker] Argo;./pics/character_27.jpg
+83003;Argo;[Cait Sith Info Broker];[Cait Sith Info Broker] Argo;./pics/character_25.jpg
+84001;Silica;[Dragon Tamer];[Dragon Tamer] Silica;./pics/character_909.jpg
+84002;Philia;[Treasure Hunter];[Treasure Hunter] Philia;./pics/character_915.jpg
+84003;Silica;[Fairy Dragon Tamer];[Fairy Dragon Tamer] Silica;./pics/character_930.jpg
+84004;Silica;【そよ風の猫妖精】;【そよ風の猫妖精】 Silica;./pics/character_87.jpg
+84005;Sima;[Pole And Line Fishing];[Pole And Line Fishing] Sima;./pics/character_1144.jpg
+84006;Silica;【古城の幼魔女】;【古城の幼魔女】 Silica;./pics/character_56.jpg
+84009;Silica;【花園に咲く笑顔】;【花園に咲く笑顔】 Silica;./pics/character_96.jpg
+84010;Silica;[Yearning Blade];[Yearning Blade] Silica;./pics/character_1139.jpg
+84011;Asuna;[Nightwear];[Nightwear] Asuna;./pics/character_1011.jpg
+84012;Silica;[Merry Dragon Tamer];[Merry Dragon Tamer] Silica;./pics/character_65.jpg
+84013;Philia;【聖夜のトレジャーハンター】;【聖夜のトレジャーハンター】 Philia;./pics/character_66.jpg
+84014;Silica;【無垢なる爛漫】;【無垢なる爛漫】 Silica;./pics/character_80.jpg
+84015;Silica;[Platonic Love];[Platonic Love] Silica;./pics/character_1124.jpg
+84016;Silica;[Nightwear];[Nightwear] Silica;./pics/character_1311.jpg
+84017;Yuuki;[Umbral Flight];[Umbral Flight] Yuuki;./pics/character_1025.jpg
+84018;Silica;[Foxy Priestess];[Foxy Priestess] Silica;./pics/character_1004.jpg
+84022;Silica;[Augmented Tamer];[Augmented Tamer] Silica;./pics/character_939.jpg
+84023;Sinon;[Victorious Girl];[Victorious Girl] Sinon;./pics/character_944.jpg
+84024;Silica;[Young Idol];[Young Idol] Silica;./pics/character_1033.jpg
+84025;Leafa;[Ephemeral Feelings];[Ephemeral Feelings] Leafa;./pics/character_1036.jpg
+84026;Seven;[Omniscient Maid];[Omniscient Maid] Seven;./pics/character_933.jpg
+84027;Silica;[Flower Peach Baby];[Flower Peach Baby] Silica;./pics/character_971.jpg
+84028;Philia;[Pure Hunter Soul];[Pure Hunter Soul] Philia;./pics/character_1044.jpg
+84029;Silica;[Blessed Breath];[Blessed Breath] Silica;./pics/character_1052.jpg
+84030;Silica;[Attention Please];[Attention Please] Silica;./pics/character_1062.jpg
+84031;Asuna;[Tropical Lover];[Tropical Lover] Asuna;./pics/character_1067.jpg
+84032;Philia;[Promise of Reunion];[Promise of Reunion] Philia;./pics/character_899.jpg
+84033;Suguha;[Dusk Lespedeza];[Dusk Lespedeza] Suguha;./pics/character_1074.jpg
+84034;Silica;[Sunflower Girl];[Sunflower Girl] Silica;./pics/character_1077.jpg
+84035;Yuuki;[Intuitive Navigator];[Intuitive Navigator] Yuuki;./pics/character_893.jpg
+84037;Silica;[Girl In Chinese Dress];[Girl In Chinese Dress] Silica;./pics/character_997.jpg
+85001;Silica;[Ingenuous Guardian];[Ingenuous Guardian] Silica;./pics/character_1092.jpg
+85002;Silica;[Witchy Kitty];[Witchy Kitty] Silica;./pics/character_923.jpg
+85003;Yui;[Go For the Top];[Go For the Top] Yui;./pics/character_898.jpg
+85004;Silica;[Autumn Leaf Bath Beauty];[Autumn Leaf Bath Beauty] Silica;./pics/character_1096.jpg
+85005;Silica;[Holy Tamer];[Holy Tamer] Silica;./pics/character_1103.jpg
+85006;Silica;[Auspicious Blue Sky];[Auspicious Blue Sky] Silica;./pics/character_1113.jpg
+85007;Silica;[Lovely Chocolatier];[Lovely Chocolatier] Silica;./pics/character_920.jpg
+85010;Sinon;[Cute Bunny];[Cute Bunny] Sinon;./pics/character_982.jpg
+85011;Yui;[Keep Trying];[Keep Trying] Yui;./pics/character_1120.jpg
+85012;Asuna;[I'm Not a Kid];[I'm Not a Kid] Asuna;./pics/character_1159.jpg
+85013;Suguha;[Unrequited Love];[Unrequited Love] Suguha;./pics/character_1170.jpg
+85014;Philia;[Treasure Hunter's Blessing];[Treasure Hunter's Blessing] Philia;./pics/character_986.jpg
+85016;Silica;[Tropical Fruit];[Tropical Fruit] Silica;./pics/character_1181.jpg
+85018;Silica;[Halloween Magic];[Halloween Magic] Silica;./pics/character_1222.jpg
+85020;Philia;[Peach Blossom In Full Glory];[Peach Blossom In Full Glory] Philia;./pics/character_1275.jpg
+85028;Silica;[Easter Bunny];[Easter Bunny] Silica;./pics/character_1406.jpg
+86002;Leafa;[Baleful Magic Swordsman];[Baleful Magic Swordsman] Leafa;./pics/character_1229.jpg
+86004;Asuna;[Hot Spring Angel];[Hot Spring Angel] Asuna;./pics/character_1238.jpg
+86005;Silica;[The Courage To Surmount];[The Courage To Surmount] Silica;./pics/character_1256.jpg
+86006;Silica;[Tamer of Dragon Den];[Tamer of Dragon Den] Silica;./pics/character_1269.jpg
+86008;Asuna;[Milky Angel];[Milky Angel] Asuna;./pics/character_1283.jpg
+86009;Yuuki;[Ice Magic Blade];[Ice Magic Blade] Yuuki;./pics/character_1295.jpg
+86010;Leafa;[Enchanting Eternal Summer Warrior];[Enchanting Eternal Summer Warrior] Leafa;./pics/character_1327.jpg
+86011;Silica;[Treading a New Path];[Treading a New Path] Silica;./pics/character_1341.jpg
+86013;Tiese;[Rosy Cheeks];[Rosy Cheeks] Tiese;./pics/character_1355.jpg
+86014;Alice;[Prayers For Good Heath];[Prayers For Good Heath] Alice;./pics/character_1373.jpg
+86015;Panther;[Cat's Fierce Gaze];[Cat's Fierce Gaze] Panther;./pics/character_1390.jpg
+86016;Silica;[Bashful Bunny];[Bashful Bunny] Silica;./pics/character_1399.jpg
+86017;Tiese;[Undying Love];[Undying Love] Tiese;./pics/character_1429.jpg
+86018;Yuuki;[Resort Life];[Resort Life] Yuuki;./pics/character_1445.jpg
+86018;Yuuki;[Beach Splash];[Beach Splash] Yuuki;./pics/character_1448.jpg
+86020;Silica;[Friendly Beast Tamer];[Friendly Beast Tamer] Silica;./pics/character_1457.jpg
+86021;Sortiliena;[Bewitching Sorceress];[Bewitching Sorceress] Sortiliena;./pics/character_1469.jpg
+86022;Yuuki;[Lovely Holiday Dress];[Lovely Holiday Dress] Yuuki;./pics/character_1486.jpg
+86023;Sinon;[Cleansing New Year's Game];[Cleansing New Year's Game] Sinon;./pics/character_1497.jpg
+86024;Sinon;[The Chariot];[The Chariot] Sinon;./pics/character_1510.jpg
+86025;Koharu;[Your Partner];[Your Partner] Koharu;./pics/character_1505.jpg
+86027;Silica;[Cute Baby Sister Maid];[Cute Baby Sister Maid] Silica;./pics/character_1533.jpg
+86028;Asuna;[The Empress];[The Empress] Asuna;./pics/character_1536.jpg
+92001;Agil;; Agil;./pics/character_36.jpg
+92002;Kibaou;; Kibaou;./pics/character_34.jpg
+92003;Kagemune;; Kagemune;./pics/character_35.jpg
+93001;Agil;[Stalwart Tank];[Stalwart Tank] Agil;./pics/character_11.jpg
+94001;Agil;[Brawny Axeman];[Brawny Axeman] Agil;./pics/character_916.jpg
+94003;Agil;[Explosive Axe];[Explosive Axe] Agil;./pics/character_1136.jpg
+95001;Agil;[Band Together];[Band Together] Agil;./pics/character_951.jpg
+96001;Skull;[Lightning Emblem];[Lightning Emblem] Skull;./pics/character_1391.jpg
+102001;Lisbeth;; Lisbeth;./pics/character_37.jpg
+102002;Rosalia;; Rosalia;./pics/character_33.jpg
+103001;Yuuki;[Mysterious Warrior];[Mysterious Warrior] Yuuki;./pics/character_7.jpg
+103002;Lisbeth;[Apprentice Blacksmith];[Apprentice Blacksmith] Lisbeth;./pics/character_15.jpg
+104001;Lisbeth;[Mace Master];[Mace Master] Lisbeth;./pics/character_910.jpg
+104002;Lisbeth;[Fairy Blacksmith];[Fairy Blacksmith] Lisbeth;./pics/character_934.jpg
+104003;Lisbeth;【豪風を呼びしもの】;【豪風を呼びしもの】 Lisbeth;./pics/character_90.jpg
+104004;Asuna;[Gremlins At Midnight];[Gremlins At Midnight] Asuna;./pics/character_54.jpg
+104005;Lisbeth;【月夜の吸血妃】;【月夜の吸血妃】 Lisbeth;./pics/character_57.jpg
+104006;Yuuki;【おてんば乙姫】;【おてんば乙姫】 Yuuki;./pics/character_83.jpg
+104007;Strea;【神炎騎士】;【神炎騎士】 Strea;./pics/character_94.jpg
+104009;Lisbeth;【豊穣の祭司】;【豊穣の祭司】 Lisbeth;./pics/character_97.jpg
+104010;Lisbeth;[Genius of Swordsmith];[Genius of Swordsmith] Lisbeth;./pics/character_1138.jpg
+104011;Lisbeth;[Christmas Artisan];[Christmas Artisan] Lisbeth;./pics/character_61.jpg
+104012;Lisbeth;[Bringer of Spring];[Bringer of Spring] Lisbeth;./pics/character_1009.jpg
+104013;Rechka;[Queen of Chef];[Queen of Chef] Rechka;./pics/character_1005.jpg
+104015;Lisbeth;[Nightwear];[Nightwear] Lisbeth;./pics/character_1312.jpg
+104016;Lisbeth;[Dark Dancer];[Dark Dancer] Lisbeth;./pics/character_1024.jpg
+104018;Lisbeth;[Efficient Smith];[Efficient Smith] Lisbeth;./pics/character_941.jpg
+104019;Sinon;【鬼っ子リーダー】;【鬼っ子リーダー】 Sinon;./pics/character_81.jpg
+104020;Silica;[Shouting Cheers];[Shouting Cheers] Silica;./pics/character_947.jpg
+104021;Lisbeth;[Fascinating Mc Performer];[Fascinating Mc Performer] Lisbeth;./pics/character_1031.jpg
+104022;Silica;[My Little Lover];[My Little Lover] Silica;./pics/character_1037.jpg
+104023;Yuuki;[Fledgling Tweeny];[Fledgling Tweeny] Yuuki;./pics/character_935.jpg
+104024;Yui;[Born In Sakura Season];[Born In Sakura Season] Yui;./pics/character_897.jpg
+104025;Lisbeth;[Smile On Waterfront];[Smile On Waterfront] Lisbeth;./pics/character_1043.jpg
+104026;Yuuki;[Bouquet Toss];[Bouquet Toss] Yuuki;./pics/character_1051.jpg
+104027;Yuuki;[Genius Creator];[Genius Creator] Yuuki;./pics/character_1007.jpg
+104029;Lisbeth;[Summer Sunshine];[Summer Sunshine] Lisbeth;./pics/character_1078.jpg
+104030;Yuna;[Roller Waitress];[Roller Waitress] Yuna;./pics/character_1059.jpg
+104031;Strea;[Abounding Spring Water];[Abounding Spring Water] Strea;./pics/character_992.jpg
+104032;Yui;[The Oracle Prophet];[The Oracle Prophet] Yui;./pics/character_1196.jpg
+105001;Yuuki;[Vampire In Love];[Vampire In Love] Yuuki;./pics/character_905.jpg
+105003;Lisbeth;[Harmony Keeper];[Harmony Keeper] Lisbeth;./pics/character_1091.jpg
+105004;Lisbeth;[Thoughts On Snowfall];[Thoughts On Snowfall] Lisbeth;./pics/character_1102.jpg
+105005;Lisbeth;[Fly a Shuttlecock With My Heart];[Fly a Shuttlecock With My Heart] Lisbeth;./pics/character_1110.jpg
+105007;Lisbeth;[Pure Hearted Chocolatier];[Pure Hearted Chocolatier] Lisbeth;./pics/character_921.jpg
+105008;Asuna;[Constant Love];[Constant Love] Asuna;./pics/character_1018.jpg
+105010;Lisbeth;[Groovy Sound];[Groovy Sound] Lisbeth;./pics/character_1131.jpg
+105011;Lisbeth;[Hopeful Smile];[Hopeful Smile] Lisbeth;./pics/character_1169.jpg
+105012;Lisbeth;[Shine Parasol];[Shine Parasol] Lisbeth;./pics/character_1182.jpg
+105017;Strea;[Melting In the Mouth];[Melting In the Mouth] Strea;./pics/character_1265.jpg
+105020;Suguha;[Sweet Allure];[Sweet Allure] Suguha;./pics/character_1346.jpg
+105021;Lisbeth;[Cute Mc Performer];[Cute Mc Performer] Lisbeth;./pics/character_1422.jpg
+106002;Lisbeth;[Fiery Ogre Girl];[Fiery Ogre Girl] Lisbeth;./pics/character_1234.jpg
+106003;Lisbeth;[The Strength of Friendship];[The Strength of Friendship] Lisbeth;./pics/character_1257.jpg
+106005;Sinon;[Tomboy Cat Fairy];[Tomboy Cat Fairy] Sinon;./pics/character_1291.jpg
+106007;Lisbeth;[Rescuing a Friend];[Rescuing a Friend] Lisbeth;./pics/character_1342.jpg
+106009;Lisbeth;[Judge's Iron Hammer];[Judge's Iron Hammer] Lisbeth;./pics/character_1403.jpg
+106010;Lisbeth;[Earth-shattering Beast];[Earth-shattering Beast] Lisbeth;./pics/character_1408.jpg
+106011;Tiese;[Starry Server];[Starry Server] Tiese;./pics/character_1499.jpg
+106012;Lisbeth;[Friendly Master Blacksmith];[Friendly Master Blacksmith] Lisbeth;./pics/character_1456.jpg
+106013;Lisbeth;[Dancing Snowman];[Dancing Snowman] Lisbeth;./pics/character_1488.jpg
+106014;Yuuki;[Vivacious Girl];[Vivacious Girl] Yuuki;./pics/character_1527.jpg
+106015;Sachi;[Devoted Worker Maid];[Devoted Worker Maid] Sachi;./pics/character_1535.jpg
+116006;Eugeo;[Let's Play Memory Defrag];[Let's Play Memory Defrag] Eugeo;./pics/character_1223.jpg
+116019;Kirito;[Rocking Into Space];[Rocking Into Space] Kirito;./pics/character_1363.jpg
+116020;Eugeo;[Reaching Greater Heights];[Reaching Greater Heights] Eugeo;./pics/character_1362.jpg
+122001;Sinon;; Sinon;./pics/character_32.jpg
+123001;Sinon;[World of Guns];[World of Guns] Sinon;./pics/character_2.jpg
+124001;Sinon;[Goddess of Death];[Goddess of Death] Sinon;./pics/character_911.jpg
+124002;Sinon;【神炎銃士】;【神炎銃士】 Sinon;./pics/character_93.jpg
+124004;Sinon;【聖なる夜の女神】;【聖なる夜の女神】 Sinon;./pics/character_67.jpg
+124005;Sinon;[Death Bullet];[Death Bullet] Sinon;./pics/character_1142.jpg
+124007;Sinon;[Nightwear];[Nightwear] Sinon;./pics/character_1310.jpg
+124009;Sinon;[Progressive Gunner];[Progressive Gunner] Sinon;./pics/character_942.jpg
+124010;Sinon;[Dangerous Kiss];[Dangerous Kiss] Sinon;./pics/character_1035.jpg
+124011;Sinon;[Novice Police];[Novice Police] Sinon;./pics/character_1061.jpg
+124012;Sinon;[Fiery Morning Glory];[Fiery Morning Glory] Sinon;./pics/character_1072.jpg
+124013;Sinon;[Mischievous Summer Chick];[Mischievous Summer Chick] Sinon;./pics/character_1079.jpg
+124014;Sinon;[Great Sniper On the Lookout];[Great Sniper On the Lookout] Sinon;./pics/character_895.jpg
+125001;Sinon;[Spider Witch];[Spider Witch] Sinon;./pics/character_924.jpg
+125002;Sinon;[Sniper In Love];[Sniper In Love] Sinon;./pics/character_957.jpg
+125005;Sinon;[Perfect Play];[Perfect Play] Sinon;./pics/character_1149.jpg
+125006;Sinon;[Clear a Path For Your Future];[Clear a Path For Your Future] Sinon;./pics/character_1116.jpg
+125007;Sinon;[Leaning On My Fellow Soldier];[Leaning On My Fellow Soldier] Sinon;./pics/character_1176.jpg
+125008;Leafa;[Magical Bullet];[Magical Bullet] Leafa;./pics/character_1175.jpg
+125009;Sinon;[Sparkling Gunner];[Sparkling Gunner] Sinon;./pics/character_1189.jpg
+126001;Silica;[Twinkle Hearts];[Twinkle Hearts] Silica;./pics/character_1244.jpg
+126003;Asuna;[Tie the Knot];[Tie the Knot] Asuna;./pics/character_1301.jpg
+126004;Sinon;[Hidden Passion];[Hidden Passion] Sinon;./pics/character_1306.jpg
+126005;Sinon;[Winning Procedure];[Winning Procedure] Sinon;./pics/character_1317.jpg
+126006;Sinon;[Strength To Change Oneself];[Strength To Change Oneself] Sinon;./pics/character_1338.jpg
+126007;Sinon;[Vr World High Priestess];[Vr World High Priestess] Sinon;./pics/character_1398.jpg
+126008;Sinon;[Condemning Trigger];[Condemning Trigger] Sinon;./pics/character_1402.jpg
+126009;Sinon;[Silent Fighting Spirit];[Silent Fighting Spirit] Sinon;./pics/character_1419.jpg
+126010;Sinon;[Comrades In Arms];[Comrades In Arms] Sinon;./pics/character_1449.jpg
+126011;Sinon;[Letting Go of the Past];[Letting Go of the Past] Sinon;./pics/character_1491.jpg
+126012;Asuna;[Sweet School Beauty];[Sweet School Beauty] Asuna;./pics/character_1524.jpg
+126014;Sinon;[Ruler of the Steel World];[Ruler of the Steel World] Sinon;./pics/character_1545.jpg
+136002;Kirito;[Happy 2nd Anniversary];[Happy 2nd Anniversary] Kirito;./pics/character_1224.jpg
+143001;Sinon;[Cat-eared Archer];[Cat-eared Archer] Sinon;./pics/character_4.jpg
+143002;Silica;[Agile Kitty];[Agile Kitty] Silica;./pics/character_28.jpg
+143003;Philia;[Spriggan Seeker];[Spriggan Seeker] Philia;./pics/character_24.jpg
+143004;Sakuya;; Sakuya;./pics/character_30.jpg
+144001;Sinon;[Cool-headed Sniper];[Cool-headed Sniper] Sinon;./pics/character_932.jpg
+144002;Sinon;[Gremlin Attack];[Gremlin Attack] Sinon;./pics/character_58.jpg
+144004;Sinon;[Flowering Valkyrie];[Flowering Valkyrie] Sinon;./pics/character_1242.jpg
+144005;Sinon;【新春の射手】;【新春の射手】 Sinon;./pics/character_79.jpg
+144006;Sinon;[Choleric Cupid];[Choleric Cupid] Sinon;./pics/character_1123.jpg
+144008;Asuna;[Cheer of Love];[Cheer of Love] Asuna;./pics/character_945.jpg
+144009;Sinon;[Free Style Artist];[Free Style Artist] Sinon;./pics/character_1029.jpg
+144010;Sinon;[Stillroom Maid];[Stillroom Maid] Sinon;./pics/character_928.jpg
+144011;Philia;[Blossom of Youth];[Blossom of Youth] Philia;./pics/character_894.jpg
+144012;Sinon;[Stiletto Heel Bride];[Stiletto Heel Bride] Sinon;./pics/character_1054.jpg
+144013;Sakuya;[Indoor Gamer];[Indoor Gamer] Sakuya;./pics/character_1065.jpg
+144014;Sinon;[Korean Dress In Breeze];[Korean Dress In Breeze] Sinon;./pics/character_999.jpg
+144015;Philia;[Spirited Chocolatier];[Spirited Chocolatier] Philia;./pics/character_1000.jpg
+145001;Sinon;[The Archer - Overcoming the Past];[The Archer - Overcoming the Past] Sinon;./pics/character_1086.jpg
+145002;Sinon;[Snow Sniper];[Snow Sniper] Sinon;./pics/character_1101.jpg
+145003;Sinon;[Swing a Battledore With Love];[Swing a Battledore With Love] Sinon;./pics/character_1109.jpg
+145004;Sinon;[The Wild Joker];[The Wild Joker] Sinon;./pics/character_961.jpg
+145007;Asuna;[Youthful Days];[Youthful Days] Asuna;./pics/character_969.jpg
+145008;Sinon;[Sky Bow];[Sky Bow] Sinon;./pics/character_1156.jpg
+145013;Yui;[Hungry Santa];[Hungry Santa] Yui;./pics/character_1367.jpg
+145015;Sinon;[Soaring Bow];[Soaring Bow] Sinon;./pics/character_1460.jpg
+146001;Sinon;[The World Linking Arrow];[The World Linking Arrow] Sinon;./pics/character_1215.jpg
+146002;Sinon;[Red Flash Divine Archer];[Red Flash Divine Archer] Sinon;./pics/character_1233.jpg
+146003;Sinon;[Tsukuyomi];[Tsukuyomi] Sinon;./pics/character_1260.jpg
+146004;Sinon;[Magical Archer];[Magical Archer] Sinon;./pics/character_1268.jpg
+146005;Asuna;[Pure Princess];[Pure Princess] Asuna;./pics/character_1272.jpg
+146006;Asuna;[Freezing Magic Bow];[Freezing Magic Bow] Asuna;./pics/character_1294.jpg
+146007;Sinon;[Long Range Archer];[Long Range Archer] Sinon;./pics/character_1281.jpg
+146008;Ronie;[Flushed Skin];[Flushed Skin] Ronie;./pics/character_1354.jpg
+146009;Silica;[Divine Bow of Benevolence];[Divine Bow of Benevolence] Silica;./pics/character_1361.jpg
+146010;Sinon;[Clairvoyant Integrity Knight];[Clairvoyant Integrity Knight] Sinon;./pics/character_1366.jpg
+146013;Asuna;[Welcoming the New Year];[Welcoming the New Year] Asuna;./pics/character_1374.jpg
+146014;Suguha;[Win Big Bunny];[Win Big Bunny] Suguha;./pics/character_1400.jpg
+146015;Alice;[Fiery Arrow Cadaver];[Fiery Arrow Cadaver] Alice;./pics/character_1405.jpg
+146016;Sinon;[Sun Goddess Solus];[Sun Goddess Solus] Sinon;./pics/character_1410.jpg
+146017;Suguha;[Swift Fox Flame];[Swift Fox Flame] Suguha;./pics/character_1417.jpg
+146018;Ronie;[Under the Blazing Sun];[Under the Blazing Sun] Ronie;./pics/character_1441.jpg
+146020;Strea;[Crashing Waves];[Crashing Waves] Strea;./pics/character_1447.jpg
+146021;Sinon;[All-piercing];[All-piercing] Sinon;./pics/character_1436.jpg
+146022;Sinon;[Piercing Eye];[Piercing Eye] Sinon;./pics/character_1462.jpg
+146024;Yuuki;[Cheerful Chime];[Cheerful Chime] Yuuki;./pics/character_1496.jpg
+146025;Alice;[Charming Heart];[Charming Heart] Alice;./pics/character_1506.jpg
+146026;Rain;[Wheel of Fortune];[Wheel of Fortune] Rain;./pics/character_1511.jpg
+146027;Asuna;[Precious Moment];[Precious Moment] Asuna;./pics/character_1512.jpg
+146028;Sinon;[Stroke of Heaven's Light];[Stroke of Heaven's Light] Sinon;./pics/character_1516.jpg
+146029;Eydis;[Carefree Bride];[Carefree Bride] Eydis;./pics/character_1539.jpg
+163001;Leafa;[Wind Mage];[Wind Mage] Leafa;./pics/character_12.jpg
+163002;Seven;[The Young Pooka];[The Young Pooka] Seven;./pics/character_8.jpg
+163003;Alicia Rue;; Alicia Rue;./pics/character_10.jpg
+163004;Siune;; Siune;./pics/character_21.jpg
+164001;Seven;[Star Scientist];[Star Scientist] Seven;./pics/character_917.jpg
+164002;Asuna;[Undine Healer];[Undine Healer] Asuna;./pics/character_927.jpg
+164003;Asuna;[Captive Princess];[Captive Princess] Asuna;./pics/character_1003.jpg
+164004;Leafa;【爽風の巫女】;【爽風の巫女】 Leafa;./pics/character_88.jpg
+164005;Leafa;[Rejoicing Witch];[Rejoicing Witch] Leafa;./pics/character_1008.jpg
+164006;Asuna;【神炎術士】;【神炎術士】 Asuna;./pics/character_92.jpg
+164007;Seven;【潮騒のシンフォニー】;【潮騒のシンフォニー】 Seven;./pics/character_85.jpg
+164010;Leafa;【神樹を守りしもの】;【神樹を守りしもの】 Leafa;./pics/character_98.jpg
+164011;Leafa;[Love Raconteur];[Love Raconteur] Leafa;./pics/character_63.jpg
+164012;Leafa;【艶美な追羽根】;【艶美な追羽根】 Leafa;./pics/character_78.jpg
+164013;Leafa;[Swift Fast Heroine];[Swift Fast Heroine] Leafa;./pics/character_1141.jpg
+164014;Silica;[Dragon Caster];[Dragon Caster] Silica;./pics/character_1027.jpg
+164016;Asuna;[Hit Idol of Love And Effort];[Hit Idol of Love And Effort] Asuna;./pics/character_1028.jpg
+164017;Yuuki;[Eccentric Riding Hood];[Eccentric Riding Hood] Yuuki;./pics/character_1039.jpg
+164018;Asuna;[Kitchen Maid];[Kitchen Maid] Asuna;./pics/character_931.jpg
+165001;Asuna;[Midnight Temptation];[Midnight Temptation] Asuna;./pics/character_954.jpg
+165003;Leafa;[Visitor In Snow];[Visitor In Snow] Leafa;./pics/character_1098.jpg
+165004;Yui;[Sacred Dance];[Sacred Dance] Yui;./pics/character_940.jpg
+165005;Leafa;[Realization of Big Wishes];[Realization of Big Wishes] Leafa;./pics/character_1111.jpg
+165007;Sinon;[Accompanied By Animals];[Accompanied By Animals] Sinon;./pics/character_1118.jpg
+165008;Leafa;[Innocent Puppy];[Innocent Puppy] Leafa;./pics/character_981.jpg
+165009;Asuna;[Sweet Voice];[Sweet Voice] Asuna;./pics/character_1129.jpg
+165010;Silica;[Foreign Girl];[Foreign Girl] Silica;./pics/character_1204.jpg
+165011;Leafa;[The Brave War God];[The Brave War God] Leafa;./pics/character_1197.jpg
+165012;Thokk;[Navigation Pixie];[Navigation Pixie] Thokk;./pics/character_1219.jpg
+165015;Yui;[Cuddling Gremlins];[Cuddling Gremlins] Yui;./pics/character_1296.jpg
+165019;Thokk;[Creator of the New World];[Creator of the New World] Thokk;./pics/character_1334.jpg
+165020;Selka;[Sincere Heart];[Sincere Heart] Selka;./pics/character_1388.jpg
+166001;Alice;[Shining Look];[Shining Look] Alice;./pics/character_1227.jpg
+166005;Cardinal;[Another Master Priest];[Another Master Priest] Cardinal;./pics/character_1326.jpg
+166007;Selka;[Apprentice Nun];[Apprentice Nun] Selka;./pics/character_1348.jpg
+166009;Leafa;[Long-haired Songstress];[Long-haired Songstress] Leafa;./pics/character_1413.jpg
+166010;Alice;[The Perfect White Dress];[The Perfect White Dress] Alice;./pics/character_1423.jpg
+166011;Tiese;[Star Festival Prayer];[Star Festival Prayer] Tiese;./pics/character_1439.jpg
+166012;Suguha;[Yuletide Glamor];[Yuletide Glamor] Suguha;./pics/character_1492.jpg
+166013;Tiese;[Ascending Goddess of the South];[Ascending Goddess of the South] Tiese;./pics/character_1501.jpg
+166014;Sortiliena;[Heartfelt Gift];[Heartfelt Gift] Sortiliena;./pics/character_1509.jpg
+184001;Asuna;[Libra];[Libra] Asuna;./pics/character_1046.jpg
+184002;Sinon;[Leo];[Leo] Sinon;./pics/character_1048.jpg
+184003;Strea;[Spartan Female Teacher];[Spartan Female Teacher] Strea;./pics/character_1060.jpg
+184005;Premiere;[Kagura Dance];[Kagura Dance] Premiere;./pics/character_1082.jpg
+184006;Suguha;[Midsummer Babe];[Midsummer Babe] Suguha;./pics/character_1076.jpg
+184007;Sachi;[Brave Lance];[Brave Lance] Sachi;./pics/character_1143.jpg
+184008;Seven;[Zinnia Melody];[Zinnia Melody] Seven;./pics/character_1073.jpg
+184010;Lisbeth;[Wacky Happy Halloween];[Wacky Happy Halloween] Lisbeth;./pics/character_991.jpg
+184011;Seven;[Santa Is Coming];[Santa Is Coming] Seven;./pics/character_994.jpg
+184012;Sinon;[Knight Princess];[Knight Princess] Sinon;./pics/character_1205.jpg
+185001;Lisbeth;[Never Give Up];[Never Give Up] Lisbeth;./pics/character_903.jpg
+185003;Sinon;[Looking Back Beauty];[Looking Back Beauty] Sinon;./pics/character_1094.jpg
+185004;Sachi;[Snow Blessings];[Snow Blessings] Sachi;./pics/character_963.jpg
+185005;Sinon;[The Unexpected];[The Unexpected] Sinon;./pics/character_943.jpg
+185007;Yuuki;[The Coveted Life];[The Coveted Life] Yuuki;./pics/character_970.jpg
+185008;Leafa;[Flying Without Wings];[Flying Without Wings] Leafa;./pics/character_1119.jpg
+185009;Yuuki;[Funky Play];[Funky Play] Yuuki;./pics/character_1130.jpg
+185010;Seven;[Talented Woman's Blessing];[Talented Woman's Blessing] Seven;./pics/character_1153.jpg
+185012;Sinon;[The Death Queen];[The Death Queen] Sinon;./pics/character_1198.jpg
+185013;Leafa;[Beach Lancer];[Beach Lancer] Leafa;./pics/character_1188.jpg
+185014;Argo;[Shokan Ninjutsu];[Shokan Ninjutsu] Argo;./pics/character_1235.jpg
+185015;Sachi;[Pure Bride];[Pure Bride] Sachi;./pics/character_1303.jpg
+185017;Yui;[Seaside Daughter];[Seaside Daughter] Yui;./pics/character_1324.jpg
+185018;Yuuki;[Relaxing Bath Time];[Relaxing Bath Time] Yuuki;./pics/character_1356.jpg
+186001;Asuna;[Moonlit Lark];[Moonlit Lark] Asuna;./pics/character_1220.jpg
+186002;Makoto;[Helheim King];[Helheim King] Makoto;./pics/character_1230.jpg
+186003;Suguha;[Moonlight Maiden];[Moonlight Maiden] Suguha;./pics/character_1239.jpg
+186005;Suguha;[Innocent Hina Doll];[Innocent Hina Doll] Suguha;./pics/character_1273.jpg
+186006;Alice;[Twilight Kiss];[Twilight Kiss] Alice;./pics/character_1284.jpg
+186008;Seven;[Photon Voice Fluttering In the Wind];[Photon Voice Fluttering In the Wind] Seven;./pics/character_1320.jpg
+186010;Leafa;[Divine Spear of Prayer];[Divine Spear of Prayer] Leafa;./pics/character_1360.jpg
+186012;Tiese;[Rejoice the New Year];[Rejoice the New Year] Tiese;./pics/character_1378.jpg
+186013;Yuuki;[Red-winged Goddesses];[Red-winged Goddesses] Yuuki;./pics/character_1379.jpg
+186014;Asuna;[Innocent Mermaid];[Innocent Mermaid] Asuna;./pics/character_1412.jpg
+186015;Yuuki;[Spearhead From the Abyss];[Spearhead From the Abyss] Yuuki;./pics/character_1418.jpg
+186016;Sortiliena;[Is This Love];[Is This Love] Sortiliena;./pics/character_1430.jpg
+186017;Alice;[Beach Beauty];[Beach Beauty] Alice;./pics/character_1440.jpg
+186018;Leafa;[Beach Vibes];[Beach Vibes] Leafa;./pics/character_1446.jpg
+186019;Asuna;[Devilish Castle Mistress];[Devilish Castle Mistress] Asuna;./pics/character_1467.jpg
+186020;Argo;[Bringing Joyful Info];[Bringing Joyful Info] Argo;./pics/character_1487.jpg
+186021;Asuna;[Lucky Fortune];[Lucky Fortune] Asuna;./pics/character_1495.jpg
+186022;Administrator;[Alluring Ruler];[Alluring Ruler] Administrator;./pics/character_1504.jpg
+186023;Tiese;[Melty Heart];[Melty Heart] Tiese;./pics/character_1508.jpg
+186024;Yuuki;[Longing For Then];[Longing For Then] Yuuki;./pics/character_1513.jpg
+186025;Asuna;[Healing Caretaker Maid];[Healing Caretaker Maid] Asuna;./pics/character_1532.jpg
+186026;Alice;[Determined Bride];[Determined Bride] Alice;./pics/character_1538.jpg
+195001;Heathcliff;[Holy Sword];[Holy Sword] Heathcliff;./pics/character_990.jpg
+195002;Kirito;[Knights of the Blood];[Knights of the Blood] Kirito;./pics/character_1105.jpg
+195003;Heathcliff;[Ultimate Defence];[Ultimate Defence] Heathcliff;./pics/character_1106.jpg
+196001;Nautilus;[Sharing This Moment];[Sharing This Moment] Nautilus;./pics/character_1270.jpg
+196002;Kirito;[Unyielding Warrior];[Unyielding Warrior] Kirito;./pics/character_1381.jpg
+196003;Eugeo;[Star Festival Oath];[Star Festival Oath] Eugeo;./pics/character_1438.jpg
+196004;Eugeo;[Patron God of the North];[Patron God of the North] Eugeo;./pics/character_1500.jpg
+196005;Eugeo;[Treasure-hungry Pirate Knight];[Treasure-hungry Pirate Knight] Eugeo;./pics/character_1521.jpg
+196006;Klein;[Friendly Math Teacher];[Friendly Math Teacher] Klein;./pics/character_1526.jpg
+216001;Eugeo;[Honest Gunner In the Wild];[Honest Gunner In the Wild] Eugeo;./pics/character_1299.jpg
+216002;Subtilizer;[Cruel Spirit];[Cruel Spirit] Subtilizer;./pics/character_1420.jpg
+216003;Kirito;[Cheerful Young Man];[Cheerful Young Man] Kirito;./pics/character_1529.jpg
+224001;Waals;[Cool Screw];[Cool Screw] Waals;./pics/character_1022.jpg
+224002;Fukaziroh;[Little Gunner];[Little Gunner] Fukaziroh;./pics/character_1158.jpg
+224003;Alice;[Queen of Wonderland];[Queen of Wonderland] Alice;./pics/character_1187.jpg
+225001;Asuna;[Flash Shooter];[Flash Shooter] Asuna;./pics/character_1125.jpg
+225002;Leafa;[Gale Gunner];[Gale Gunner] Leafa;./pics/character_1126.jpg
+225003;Silica;[Dragon Tamer In the Wild];[Dragon Tamer In the Wild] Silica;./pics/character_1127.jpg
+225004;Lisbeth;[Stout Heart In the World of Steel];[Stout Heart In the World of Steel] Lisbeth;./pics/character_1128.jpg
+225005;Llenn;[Itsy-bitsy Heroine];[Itsy-bitsy Heroine] Llenn;./pics/character_976.jpg
+225006;Pitohui;[Toxic Beauty];[Toxic Beauty] Pitohui;./pics/character_975.jpg
+225009;Kureha;[Seeking Strength];[Seeking Strength] Kureha;./pics/character_1019.jpg
+225011;Llenn;[Little Beauty];[Little Beauty] Llenn;./pics/character_1161.jpg
+225012;Pitohui;[Charming Look];[Charming Look] Pitohui;./pics/character_1162.jpg
+225013;Fukaziroh;[Storm Baby];[Storm Baby] Fukaziroh;./pics/character_1163.jpg
+225015;Llenn;[Pink In Battle];[Pink In Battle] Llenn;./pics/character_1145.jpg
+225016;Pitohui;[Toxic Gun Master];[Toxic Gun Master] Pitohui;./pics/character_1146.jpg
+225017;Sinon;[Charming Rider];[Charming Rider] Sinon;./pics/character_1020.jpg
+225019;Strea;[Mhcp On the Frontline];[Mhcp On the Frontline] Strea;./pics/character_1178.jpg
+225027;Llenn;[Santa Surprise];[Santa Surprise] Llenn;./pics/character_1245.jpg
+225028;Fukaziroh;[Parachute Reindeer];[Parachute Reindeer] Fukaziroh;./pics/character_1246.jpg
+225039;Lisbeth;[Smokey Blacksmith];[Smokey Blacksmith] Lisbeth;./pics/character_1316.jpg
+226001;Asuna;[Luminous Ornaments];[Luminous Ornaments] Asuna;./pics/character_1243.jpg
+226002;Leafa;[Christmas Shooting Star];[Christmas Shooting Star] Leafa;./pics/character_1250.jpg
+226005;Alice;[Noble Gunner In the Wild];[Noble Gunner In the Wild] Alice;./pics/character_1298.jpg
+226006;Lisbeth;[Promise Happiness];[Promise Happiness] Lisbeth;./pics/character_1302.jpg
+226007;Silica;[Frontline Methods];[Frontline Methods] Silica;./pics/character_1318.jpg
+226010;Silica;[Girls' Day];[Girls' Day] Silica;./pics/character_1518.jpg
+226011;Alice;[Earnest Purity];[Earnest Purity] Alice;./pics/character_1525.jpg
+526024;Leafa;[Speedaholic];[Speedaholic] Leafa;./pics/character_1293.jpg
+526050;Alice;[Morning Camisole];[Morning Camisole] Alice;./pics/character_1433.jpg
+526056;Suguha;[Barista In Bloom];[Barista In Bloom] Suguha;./pics/character_1470.jpg
+566015;Asuna;[Graceful Vice Commandeur];[Graceful Vice Commandeur] Asuna;./pics/character_1292.jpg
+586026;Administrator;[Seductive Teacher];[Seductive Teacher] Administrator;./pics/character_1531.jpg
+5226009;Umino;[Fluffy Bunny];[Fluffy Bunny] Umino;./pics/character_1300.jpg
+6146023;Sinon;[If Flowers Could Speak];[If Flowers Could Speak] Sinon;./pics/character_1471.jpg
